@@ -37,6 +37,11 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en"],
-    "blueprints": []
+    "blueprints": [],
+    "appsFolders": ["App"],
+    "directoryPath": "../",
+    "monitoring": "no",
+    "consoleOptions": [],
+    "jwtSecretKey": "MTlhZDIyZmFmNzlhYTUzMGZjMmExZjNiNzM2NTJjZGQ5OTQyYWQ0NGZlYmNmZmQ4ODc2ODBiZDlkNjU5Mzg3MjJhNjYwYjQ1NGE2MDA5YWFlMDBiNDZkYzJkY2E2MTkwYTg5OA=="
   }
 }
