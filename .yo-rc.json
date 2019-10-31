@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.app",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "App",
+    "packageName": "com.app",
+    "packageFolder": "com/app",
+    "serverPort": "8080",
+    "authenticationType": "session",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "rememberMeKey": "7381f9ddd6f31e7d6242c1dfbb9c1d8065e6f3c22f571759bd4d7c5bd887472097917cba61ec123cd6a6a896428a30ce99b7",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
