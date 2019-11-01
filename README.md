@@ -1,4 +1,21 @@
-# App
+# App - AS471 Assignment
+
+## S/14/457 : Kalana Rathnayake
+
+### Follow the instruction
+
+1.git clone [https://github.com/kalanakbr/AS471.git] or download ZIP file
+2.Download all dpendencies and packages.
+
+      npm install
+
+3.Start the application
+
+    mvnw
+    npm strat
+
+4.(http://localhost:8080) or (http://localhost:9000)
+5.AWS instance : [ec2-18-188-237-140.us-east-2.compute.amazonaws.com]
 
 This application was generated using JHipster 6.4.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v6.4.1](https://www.jhipster.tech/documentation-archive/v6.4.1).
 
